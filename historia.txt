@@ -1,4 +1,4 @@
- Esta es una historia de vida.
- De la creacion de un proyecto real
- Adición de valores para version 3.
+ Esta es una historia
+ De la creacion de un proyecto
  Clear git
+ Mañana será un nuevo día.
